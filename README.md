@@ -1,7 +1,7 @@
 <h1>Учебный проект</h1>
-Курс [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/home/welcome).
+Курс <a href="https://www.coursera.org/learn/object-oriented-java/home/welcome"Object>Oriented Programming in Java</a>
 Приложение с интерактивной картой, отображающей землятрясения.
-С использованием библиотек [Unfolding](http://unfoldingmaps.org/) и [Processing](https://www.processing.org/)
+С использованием библиотек <a href="http://unfoldingmaps.org/">Unfolding</a> и <a href="https://www.processing.org/">Processing</a>
 <h2>Модуль 1</h2>
 Приложение с двумя картами, 
 с увеличением в разных точках.
